@@ -34,7 +34,7 @@ Aplikacija koristi free plan za DB server što dovodi do čestog overloadnja ser
 * [SpringBoot 2 framework](https://spring.io/projects/spring-boot) - SpringBoot 2 framework za backend dio koda. 
 * [React-redux](https://reactjs.org/) - React i redux za frontend.
 * [ClearDB Mysql](https://www.cleardb.com/dashboard?source=MEUxQjUwMkQzMUIwRDk4RTZFQkVENjBBRkVCMDczQzg=&nav-data=eyJhcHBuYW1lIjoidG9kby1wbGFuZXItZ29yYW5tIiwiYWRkb24iOiJDbGVhckRCIE15U1FMIElnbml0ZSIsImFkZG9ucyI6W3siY3VycmVudCI6dHJ1ZSwiaWNvbiI6Imh0dHBzOi8vYWRkb25zLmhlcm9rdS5jb20vcHJvdmlkZXIvYWRkb25zL2NsZWFyZGIvaWNvbnMvbWVudS9wcm9jZXNzZWQucG5nIiwic2x1ZyI6ImNsZWFyZGI6aWduaXRlIiwibmFtZSI6IkNsZWFyREIgTXlTUUwifV19) - Baza podataka sa Heroku platforme
-* [Server za App](https://dashboard.heroku.com/login) - Server Aplikacije
+* [Server za App](https://dashboard.heroku.com/login) - Server Aplikacije, Heroku
 
 ## Autor
 
