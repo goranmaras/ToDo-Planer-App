@@ -3,6 +3,8 @@
 To Do jednostavna aplikacija koja omogućava kreiranje naloga, dodavanje projekata i svakom projektu određene zadatke.
 Aplikacija je na lokaciji [To-Do-Planer-App](https://todo-planer-goranm.herokuapp.com/). 
 ![SLIKA](https://github.com/goranmaras/ToDo-Paner-App-FrontEnd/blob/master/Izrezak.PNG)
+![SLIKA](https://github.com/goranmaras/ToDo-Planer-App/blob/master/ZaGitToDOapp12.PNG)
+![SLIKA](https://github.com/goranmaras/ToDo-Planer-App/blob/master/ZaGitToDOapp11.PNG)
 
 ## BackEnd
 
